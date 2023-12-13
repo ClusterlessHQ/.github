@@ -23,6 +23,7 @@
                                        │Project B                                               
                                         ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘
 ```
+## Event Driven Data Processing
 
 Clusterless is a tool for deploying decentralized, scalable, and secure data-processing workloads for continuously
 arriving data, across clouds.
